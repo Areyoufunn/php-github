@@ -1,13 +1,13 @@
 <?php 
     // Menampilkan Variabel dan Konstanta 
-    $nama = "Andi"; 
+    $nama = "DIKA"; 
     define("GAJI", 50000000); 
     echo $nama; 
     echo "<br>"; 
     echo GAJI; 
  
     // Memanggil variabel dalam string 
-    $nama = "Andi"; 
+    $nama = "ARIL"; 
     echo "<p>Selamat pagi $nama</p>"; 
  
     // Menghapus Variabel 
