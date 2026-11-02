@@ -2,7 +2,7 @@
 <html lang="id"> 
 <head> 
     <meta charset="UTF-8"> 
-    <title>Belajar PHP</title> 
+    <title>Belajar PHP digithub</title> 
 </head> 
 <body> 
     <p>Teks ini hanyalah kode HTML sederhana</p> 
