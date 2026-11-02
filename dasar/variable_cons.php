@@ -1,6 +1,6 @@
 <?php 
     // Menampilkan Variabel dan Konstanta 
-    $nama = "Andi"; 
+    $nama = "DIKA"; 
     define("GAJI", 50000000); 
     echo $nama; 
     echo "<br>"; 
