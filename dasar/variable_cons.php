@@ -7,7 +7,7 @@
     echo GAJI; 
  
     // Memanggil variabel dalam string 
-    $nama = "Andi"; 
+    $nama = "ARIL"; 
     echo "<p>Selamat pagi $nama</p>"; 
  
     // Menghapus Variabel 
