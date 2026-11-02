@@ -22,7 +22,7 @@
     }
         salam3("Malam","Andi");        
     salam3("Siang","Jojo");        
-    salam3("Pagi","Indonesia..."); 
+    salam3("Pagi","Indonesia."); 
  
     // Pemanggilan Argumen 
     function salam4($waktu,$nama){ 
